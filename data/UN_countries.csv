@@ -1,0 +1,277 @@
+Index,,ISO3 Alpha-code,Subregion,Region,Continent,"More developed regions
+901","Less developed regions
+902","Least developed countries
+941","Less developed regions, excluding least developed countries
+934","Less developed regions, excluding China
+948","Land-Locked Developing Countries (LLDC)
+1636","Small Island Developing States (SIDS)
+1637","High-income Countries
+1503","Middle-income Countries
+1517","Upper-middle-income Countries
+1502","Lower-middle-income Countries
+1501","Low-income Countries
+1500","No income group available
+1518",Max(HIV) for males,Max(HIV) for females,Max(HIV) for both sexes,Year for max(HIV) for both sexes,Estimates of mortality age pattern,Projection of life expectancy at birth
+27,Burundi,BDI,Eastern Africa,Sub-Saharan Africa,Africa,,902,941,,948,1636,,,,,,1500,,3.48,4.45,3.96,1997,,Yes
+28,Comoros,COM,Eastern Africa,Sub-Saharan Africa,Africa,,902,941,,948,,1637,,,,,1500,,0.07,0.04,0.05,2003,,
+29,Djibouti,DJI,Eastern Africa,Sub-Saharan Africa,Africa,,902,941,,948,,,,1517,,1501,,,2.43,3.20,2.81,2002,,Yes
+30,Eritrea,ERI,Eastern Africa,Sub-Saharan Africa,Africa,,902,941,,948,,,,,,,1500,,1.07,2.23,1.66,1998,,Yes
+31,Ethiopia,ETH,Eastern Africa,Sub-Saharan Africa,Africa,,902,941,,948,1636,,,,,,1500,,2.61,4.68,3.65,1997,,Yes
+32,Kenya,KEN,Eastern Africa,Sub-Saharan Africa,Africa,,902,,934,948,,,,1517,,1501,,,7.94,12.37,10.19,1997,Yes,Yes
+33,Madagascar,MDG,Eastern Africa,Sub-Saharan Africa,Africa,,902,941,,948,,,,,,,1500,,0.36,0.16,0.26,2017,,
+34,Malawi,MWI,Eastern Africa,Sub-Saharan Africa,Africa,,902,941,,948,1636,,,,,,1500,,12.32,17.39,14.90,1998,Yes,Yes
+35,Mauritius,MUS,Eastern Africa,Sub-Saharan Africa,Africa,,902,,934,948,,1637,,1517,1502,,,,1.99,0.93,1.46,2008,,Yes
+36,Mayotte,MYT,Eastern Africa,Sub-Saharan Africa,Africa,,902,,934,948,,,,,,,,1518,,,,,,
+37,Mozambique,MOZ,Eastern Africa,Sub-Saharan Africa,Africa,,902,941,,948,,,,,,,1500,,10.76,15.76,13.35,2010,Yes,Yes
+38,Réunion,REU,Eastern Africa,Sub-Saharan Africa,Africa,,902,,934,948,,,,,,,,1518,,,,,,
+39,Rwanda,RWA,Eastern Africa,Sub-Saharan Africa,Africa,,902,941,,948,1636,,,,,,1500,,5.00,6.86,5.95,1995,Yes,Yes
+40,Seychelles,SYC,Eastern Africa,Sub-Saharan Africa,Africa,,902,,934,948,,1637,1503,,,,,,,,,,,
+41,Somalia,SOM,Eastern Africa,Sub-Saharan Africa,Africa,,902,941,,948,,,,,,,1500,,0.41,0.37,0.39,2002,,
+42,South Sudan,SSD,Eastern Africa,Sub-Saharan Africa,Africa,,902,941,,948,1636,,,,,,1500,,2.45,3.45,2.95,2006,,Yes
+43,Uganda,UGA,Eastern Africa,Sub-Saharan Africa,Africa,,902,941,,948,1636,,,,,,1500,,9.24,12.11,10.69,1990,Yes,Yes
+44,United Republic of Tanzania,TZA,Eastern Africa,Sub-Saharan Africa,Africa,,902,941,,948,,,,,,,1500,,7.25,9.70,8.43,1997,Yes,Yes
+45,Zambia,ZMB,Eastern Africa,Sub-Saharan Africa,Africa,,902,941,,948,1636,,,1517,,1501,,,12.88,19.00,15.93,1998,Yes,Yes
+46,Zimbabwe,ZWE,Eastern Africa,Sub-Saharan Africa,Africa,,902,,934,948,1636,,,,,,1500,,23.90,30.64,27.28,1997,Yes,Yes
+47,Middle Africa,   ,,,,,,,,,,,,,,,,,,,,,,
+48,Angola,AGO,Middle Africa,Sub-Saharan Africa,Africa,,902,941,,948,,,,1517,,1501,,,1.25,2.58,1.92,2016,,Yes
+49,Cameroon,CMR,Middle Africa,Sub-Saharan Africa,Africa,,902,,934,948,,,,1517,,1501,,,3.74,6.44,5.08,2004,Yes,Yes
+50,Central African Republic,CAF,Middle Africa,Sub-Saharan Africa,Africa,,902,941,,948,1636,,,,,,1500,,8.75,10.98,9.87,1998,Yes,Yes
+51,Chad,TCD,Middle Africa,Sub-Saharan Africa,Africa,,902,941,,948,1636,,,,,,1500,,1.79,2.57,2.18,2000,,Yes
+52,Congo,COG,Middle Africa,Sub-Saharan Africa,Africa,,902,,934,948,,,,1517,,1501,,,3.61,6.14,4.85,1996,Yes,Yes
+53,Democratic Republic of the Congo,COD,Middle Africa,Sub-Saharan Africa,Africa,,902,941,,948,,,,,,,1500,,1.40,3.02,2.16,1998,,Yes
+54,Equatorial Guinea,GNQ,Middle Africa,Sub-Saharan Africa,Africa,,902,,934,948,,,,1517,1502,,,,5.49,8.06,6.52,2017,Yes,Yes
+55,Gabon,GAB,Middle Africa,Sub-Saharan Africa,Africa,,902,,934,948,,,,1517,1502,,,,2.32,6.43,4.26,2016,Yes,Yes
+56,Sao Tome and Principe,STP,Middle Africa,Sub-Saharan Africa,Africa,,902,941,,948,,1637,,1517,,1501,,,,,,,,
+57,Southern Africa,   ,,,,,,,,,,,,,,,,,,,,,,
+58,Botswana,BWA,Southern Africa,Sub-Saharan Africa,Africa,,902,,934,948,1636,,,1517,1502,,,,22.84,31.13,26.95,2000,Yes,Yes
+59,Eswatini,SWZ,Southern Africa,Sub-Saharan Africa,Africa,,902,,934,948,1636,,,1517,,1501,,,21.97,35.90,28.43,2014,Yes,Yes
+60,Lesotho,LSO,Southern Africa,Sub-Saharan Africa,Africa,,902,941,,948,1636,,,1517,,1501,,,18.81,29.13,23.91,2016,Yes,Yes
+61,Namibia,NAM,Southern Africa,Sub-Saharan Africa,Africa,,902,,934,948,,,,1517,1502,,,,12.21,16.93,14.63,2002,Yes,Yes
+62,South Africa,ZAF,Southern Africa,Sub-Saharan Africa,Africa,,902,,934,948,,,,1517,1502,,,,14.20,23.67,18.85,2016,Yes,Yes
+63,Western Africa,   ,,,,,,,,,,,,,,,,,,,,,,
+64,Benin,BEN,Western Africa,Sub-Saharan Africa,Africa,,902,941,,948,,,,,,,1500,,1.25,1.62,1.42,2001,,Yes
+65,Burkina Faso,BFA,Western Africa,Sub-Saharan Africa,Africa,,902,941,,948,1636,,,,,,1500,,4.27,3.49,3.81,1993,,Yes
+66,Cabo Verde,CPV,Western Africa,Sub-Saharan Africa,Africa,,902,,934,948,,1637,,1517,,1501,,,0.77,1.04,0.91,2001,,Yes
+67,Côte d'Ivoire,CIV,Western Africa,Sub-Saharan Africa,Africa,,902,,934,948,,,,1517,,1501,,,6.78,9.99,8.33,1997,Yes,Yes
+68,Gambia,GMB,Western Africa,Sub-Saharan Africa,Africa,,902,941,,948,,,,,,,1500,,2.03,2.38,2.21,2007,,Yes
+69,Ghana,GHA,Western Africa,Sub-Saharan Africa,Africa,,902,,934,948,,,,1517,,1501,,,2.29,3.09,2.64,2001,,Yes
+70,Guinea,GIN,Western Africa,Sub-Saharan Africa,Africa,,902,941,,948,,,,,,,1500,,1.41,2.16,1.78,2000,,Yes
+71,Guinea-Bissau,GNB,Western Africa,Sub-Saharan Africa,Africa,,902,941,,948,,1637,,,,,1500,,3.39,4.69,4.06,2008,Yes,Yes
+72,Liberia,LBR,Western Africa,Sub-Saharan Africa,Africa,,902,941,,948,,,,,,,1500,,4.46,6.17,5.30,1994,Yes,Yes
+73,Mali,MLI,Western Africa,Sub-Saharan Africa,Africa,,902,941,,948,1636,,,,,,1500,,1.27,1.85,1.56,1999,,Yes
+74,Mauritania,MRT,Western Africa,Sub-Saharan Africa,Africa,,902,941,,948,,,,1517,,1501,,,1.25,0.53,0.90,2003,,Yes
+75,Niger,NER,Western Africa,Sub-Saharan Africa,Africa,,902,941,,948,1636,,,,,,1500,,0.82,0.59,0.70,2001,,
+76,Nigeria,NGA,Western Africa,Sub-Saharan Africa,Africa,,902,,934,948,,,,1517,,1501,,,3.74,3.66,3.69,2002,,Yes
+77,Saint Helena,SHN,Western Africa,Sub-Saharan Africa,Africa,,902,,934,948,,,,,,,,1518,,,,,,
+78,Senegal,SEN,Western Africa,Sub-Saharan Africa,Africa,,902,941,,948,,,,,,,1500,,0.55,0.94,0.75,2004,,
+79,Sierra Leone,SLE,Western Africa,Sub-Saharan Africa,Africa,,902,941,,948,,,,,,,1500,,1.46,1.81,1.64,2008,,Yes
+80,Togo,TGO,Western Africa,Sub-Saharan Africa,Africa,,902,941,,948,,,,,,,1500,,2.95,4.30,3.65,2003,,Yes
+81,NORTHERN AFRICA AND WESTERN ASIA,,,,,,,,,,,,,,,,,,,,,,,
+82,Northern Africa,   ,,,,,,,,,,,,,,,,,,,,,,
+83,Algeria,DZA,Northern Africa,Northern Africa and Western Asia,Africa,,902,,934,948,,,,1517,1502,,,,0.06,0.05,0.05,2017,,
+84,Egypt,EGY,Northern Africa,Northern Africa and Western Asia,Africa,,902,,934,948,,,,1517,,1501,,,0.04,0.02,0.03,2017,,
+85,Libya,LBY,Northern Africa,Northern Africa and Western Asia,Africa,,902,,934,948,,,,1517,1502,,,,,,,,,
+86,Morocco,MAR,Northern Africa,Northern Africa and Western Asia,Africa,,902,,934,948,,,,1517,,1501,,,0.11,0.07,0.09,2017,,
+87,Sudan,SDN,Northern Africa,Northern Africa and Western Asia,Africa,,902,941,,948,,,,1517,,1501,,,0.24,0.21,0.23,2017,,
+88,Tunisia,TUN,Northern Africa,Northern Africa and Western Asia,Africa,,902,,934,948,,,,1517,,1501,,,0.06,0.03,0.04,2017,,
+89,Western Sahara,ESH,Northern Africa,Northern Africa and Western Asia,Africa,,902,,934,948,,,,,,,,1518,,,,,,
+90,Western Asia,   ,,,,,,,,,,,,,,,,,,,,,,
+91,Armenia,ARM,Western Asia,Northern Africa and Western Asia,Asia,,902,,934,948,1636,,,1517,1502,,,,0.28,0.12,0.19,2008,,
+92,Azerbaijan,AZE,Western Asia,Northern Africa and Western Asia,Asia,,902,,934,948,1636,,,1517,1502,,,,0.15,0.08,0.12,2017,,
+93,Bahrain,BHR,Western Asia,Northern Africa and Western Asia,Asia,,902,,934,948,,1637,1503,,,,,,0.08,0.06,0.07,2017,,
+94,Cyprus,CYP,Western Asia,Northern Africa and Western Asia,Asia,,902,,934,948,,,1503,,,,,,0.17,0.05,0.11,2017,,
+95,Georgia,GEO,Western Asia,Northern Africa and Western Asia,Asia,,902,,934,948,,,,1517,,1501,,,0.68,0.17,0.43,2017,,
+96,Iraq,IRQ,Western Asia,Northern Africa and Western Asia,Asia,,902,,934,948,,,,1517,1502,,,,,,,,,
+97,Israel,ISR,Western Asia,Northern Africa and Western Asia,Asia,,902,,934,948,,,1503,,,,,,,,,,,
+98,Jordan,JOR,Western Asia,Northern Africa and Western Asia,Asia,,902,,934,948,,,,1517,1502,,,,,,,,,
+99,Kuwait,KWT,Western Asia,Northern Africa and Western Asia,Asia,,902,,934,948,,,1503,,,,,,0.09,0.04,0.06,2017,,
+100,Lebanon,LBN,Western Asia,Northern Africa and Western Asia,Asia,,902,,934,948,,,,1517,1502,,,,0.08,0.02,0.05,2017,,
+101,Oman,OMN,Western Asia,Northern Africa and Western Asia,Asia,,902,,934,948,,,1503,,,,,,,,,,,
+102,Qatar,QAT,Western Asia,Northern Africa and Western Asia,Asia,,902,,934,948,,,1503,,,,,,0.17,0.08,0.12,2017,,
+103,Saudi Arabia,SAU,Western Asia,Northern Africa and Western Asia,Asia,,902,,934,948,,,1503,,,,,,,,,,,
+104,State of Palestine,PSE,Western Asia,Northern Africa and Western Asia,Asia,,902,,934,948,,,,1517,,1501,,,,,,,,
+105,Syrian Arab Republic,SYR,Western Asia,Northern Africa and Western Asia,Asia,,902,,934,948,,,,,,,1500,,,,,,,
+106,Turkey,TUR,Western Asia,Northern Africa and Western Asia,Asia,,902,,934,948,,,,1517,1502,,,,,,,,,
+107,United Arab Emirates,ARE,Western Asia,Northern Africa and Western Asia,Asia,,902,,934,948,,,1503,,,,,,,,,,,
+108,Yemen,YEM,Western Asia,Northern Africa and Western Asia,Asia,,902,941,,948,,,,,,,1500,,,,,,,
+109,CENTRAL AND SOUTHERN ASIA,,,,,,,,,,,,,,,,,,,,,,,
+110,Central Asia,   ,,,,,,,,,,,,,,,,,,,,,,
+111,Kazakhstan,KAZ,Central Asia,Central and Southern Asia,Asia,,902,,934,948,1636,,,1517,1502,,,,0.31,0.14,0.23,2017,,
+112,Kyrgyzstan,KGZ,Central Asia,Central and Southern Asia,Asia,,902,,934,948,1636,,,1517,,1501,,,0.26,0.14,0.20,2017,,
+113,Tajikistan,TJK,Central Asia,Central and Southern Asia,Asia,,902,,934,948,1636,,,,,,1500,,0.37,0.14,0.26,2017,,
+114,Turkmenistan,TKM,Central Asia,Central and Southern Asia,Asia,,902,,934,948,1636,,,1517,1502,,,,,,,,,
+115,Uzbekistan,UZB,Central Asia,Central and Southern Asia,Asia,,902,,934,948,1636,,,1517,,1501,,,0.34,0.18,0.26,2017,,
+116,Southern Asia,   ,,,,,,,,,,,,,,,,,,,,,,
+117,Afghanistan,AFG,Southern Asia,Central and Southern Asia,Asia,,902,941,,948,1636,,,,,,1500,,,,,,,
+118,Bangladesh,BGD,Southern Asia,Central and Southern Asia,Asia,,902,941,,948,,,,1517,,1501,,,0.02,0.01,0.01,2017,,
+119,Bhutan,BTN,Southern Asia,Central and Southern Asia,Asia,,902,941,,948,1636,,,1517,,1501,,,,,,,,
+120,India,IND,Southern Asia,Central and Southern Asia,Asia,,902,,934,948,,,,1517,,1501,,,0.59,0.39,0.50,1999,,
+121,Iran (Islamic Republic of),IRN,Southern Asia,Central and Southern Asia,Asia,,902,,934,948,,,,1517,1502,,,,0.16,0.06,0.11,2016,,
+122,Maldives,MDV,Southern Asia,Central and Southern Asia,Asia,,902,,934,948,,1637,,1517,1502,,,,,,,,,
+123,Nepal,NPL,Southern Asia,Central and Southern Asia,Asia,,902,941,,948,1636,,,,,,1500,,0.33,0.15,0.24,2005,,
+124,Pakistan,PAK,Southern Asia,Central and Southern Asia,Asia,,902,,934,948,,,,1517,,1501,,,0.17,0.08,0.13,2017,,
+125,Sri Lanka,LKA,Southern Asia,Central and Southern Asia,Asia,,902,,934,948,,,,1517,,1501,,,0.05,0.02,0.04,2007,,
+126,EASTERN AND SOUTH-EASTERN ASIA,,,,,,,,,,,,,,,,,,,,,,,
+127,Eastern Asia,   ,,,,,,,,,,,,,,,,,,,,,,
+128,China,CHN,Eastern Asia,Eastern and South-Eastern Asia,Asia,,902,,934,,,,,1517,1502,,,,0.12,0.06,0.04,2007.00,,
+129,"China, Hong Kong SAR",HKG,Eastern Asia,Eastern and South-Eastern Asia,Asia,,902,,934,,,,1503,,,,,,,,,,,
+130,"China, Macao SAR",MAC,Eastern Asia,Eastern and South-Eastern Asia,Asia,,902,,934,,,,1503,,,,,,,,,,,
+131,"China, Taiwan Province of China",TWN,Eastern Asia,Eastern and South-Eastern Asia,Asia,,902,,934,,,,1503,,,,,,,,,,,
+132,Dem. People's Republic of Korea,PRK,Eastern Asia,Eastern and South-Eastern Asia,Asia,,902,,934,948,,,,,,,1500,,,,,,,
+133,Japan,JPN,Eastern Asia,Eastern and South-Eastern Asia,Asia,901,,,,,,,1503,,,,,,0.07,0.01,0.04,2017,,
+134,Mongolia,MNG,Eastern Asia,Eastern and South-Eastern Asia,Asia,,902,,934,948,1636,,,1517,,1501,,,0.05,0.02,0.03,2012,,
+135,Republic of Korea,KOR,Eastern Asia,Eastern and South-Eastern Asia,Asia,,902,,934,948,,,1503,,,,,,,,,,,
+136,South-Eastern Asia,   ,,,,,,,,,,,,,,,,,,,,,,
+137,Brunei Darussalam,BRN,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,,902,,934,948,,,1503,,,,,,,,,,,
+138,Cambodia,KHM,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,,902,941,,948,,,,1517,,1501,,,2.36,1.25,1.73,1998,,Yes
+139,Indonesia,IDN,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,,902,,934,948,,,,1517,,1501,,,0.54,0.31,0.42,2017,,
+140,Lao People's Democratic Republic,LAO,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,,902,941,,948,1636,,,1517,,1501,,,0.33,0.26,0.30,2012,,
+141,Malaysia,MYS,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,,902,,934,948,,,,1517,1502,,,,0.84,0.17,0.50,2001,,
+142,Myanmar,MMR,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,,902,941,,948,,,,1517,,1501,,,1.12,0.53,0.77,2007,,Yes
+143,Philippines,PHL,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,,902,,934,948,,,,1517,,1501,,,0.22,0.02,0.12,2017,,
+144,Singapore,SGP,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,,902,,934,948,,1637,1503,,,,,,0.44,0.05,0.25,2017,,
+145,Thailand,THA,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,,902,,934,948,,,,1517,1502,,,,3.03,1.26,2.00,1997,,Yes
+146,Timor-Leste,TLS,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,,902,941,,948,,1637,,1517,,1501,,,,,,,,
+147,Viet Nam,VNM,South-Eastern Asia,Eastern and South-Eastern Asia,Asia,,902,,934,948,,,,1517,,1501,,,0.53,0.25,0.37,2010,,
+148,LATIN AMERICA AND THE CARIBBEAN,   ,,,,,,,,,,,,,,,,,,,,,,
+149,Caribbean,   ,,,,,,,,,,,,,,,,,,,,,,
+150,Anguilla,AIA,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,,,,,,1518,,,,,,
+151,Antigua and Barbuda,ATG,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,1503,,,,,,,,,,,
+152,Aruba,ABW,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,1503,,,,,,,,,,,
+153,Bahamas,BHS,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,1503,,,,,,3.57,2.45,2.92,1998,,Yes
+154,Barbados,BRB,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,1503,,,,,,2.17,1.06,1.61,2017,,Yes
+155,"Bonaire, Sint Eustatius and Saba",BES,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,,,,,,,1518,,,,,,
+156,British Virgin Islands,VGB,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,1503,,,,,,,,,,,
+157,Cayman Islands,CYM,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,1503,,,,,,,,,,,
+158,Cuba,CUB,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,,1517,1502,,,,0.62,0.26,0.44,2017,,
+159,Curaçao,CUW,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,1503,,,,,,,,,,,
+160,Dominica,DMA,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,,1517,1502,,,,,,,,,
+161,Dominican Republic,DOM,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,,1517,1502,,,,2.30,1.60,1.95,2002,,Yes
+162,Grenada,GRD,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,,1517,1502,,,,,,,,,
+163,Guadeloupe,GLP,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,,,,,,1518,,,,,,
+164,Haiti,HTI,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,941,,948,,1637,,,,,1500,,1.82,2.30,2.02,2002,,Yes
+165,Jamaica,JAM,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,,1517,1502,,,,3.14,1.96,2.54,1999,,Yes
+166,Martinique,MTQ,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,,,,,,1518,,,,,,
+167,Montserrat,MSR,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,,,,,,1518,,,,,,
+168,Puerto Rico,PRI,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,1503,,,,,,,,,,,
+169,Saint Barthélemy,BLM,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,,,,,,1518,,,,,,
+170,Saint Kitts and Nevis,KNA,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,1503,,,,,,,,,,,
+171,Saint Lucia,LCA,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,,1517,1502,,,,,,,,,
+172,Saint Martin (French part),MAF,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,1503,,,,,,,,,,,
+173,Saint Vincent and the Grenadines,VCT,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,,1517,1502,,,,,,,,,
+174,Sint Maarten (Dutch part),SXM,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,1503,,,,,,,,,,,
+175,Trinidad and Tobago,TTO,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,1503,,,,,,1.62,0.84,1.21,2010,,Yes
+176,Turks and Caicos Islands,TCA,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,1503,,,,,,,,,,,
+177,United States Virgin Islands,VIR,Caribbean,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,1503,,,,,,,,,,,
+178,Central America,   ,,,,,,,,,,,,,,,,,,,,,,
+179,Belize,BLZ,Central America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,,1517,1502,,,,1.98,1.77,1.88,2017,,Yes
+180,Costa Rica,CRI,Central America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,,,1517,1502,,,,0.56,0.24,0.40,2017,,
+181,El Salvador,SLV,Central America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,,,1517,,1501,,,0.83,0.41,0.60,2014,,
+182,Guatemala,GTM,Central America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,,,1517,1502,,,,0.66,0.35,0.49,2010,,
+183,Honduras,HND,Central America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,,,1517,,1501,,,1.83,0.75,1.28,1996,,Yes
+184,Mexico,MEX,Central America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,,,1517,1502,,,,0.43,0.13,0.28,2017,,
+185,Nicaragua,NIC,Central America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,,,1517,,1501,,,0.45,0.20,0.32,2004,,
+186,Panama,PAN,Central America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,,1503,,,,,,1.33,0.61,0.97,2017,,Yes
+187,South America,   ,,,,,,,,,,,,,,,,,,,,,,
+188,Argentina,ARG,South America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,,1503,,,,,,0.57,0.28,0.43,2017,,
+189,Bolivia (Plurinational State of),BOL,South America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,1636,,,1517,,1501,,,0.44,0.20,0.32,2017,,
+190,Brazil,BRA,South America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,,,1517,1502,,,,0.78,0.44,0.61,2017,,
+191,Chile,CHL,South America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,,1503,,,,,,0.81,0.32,0.57,2017,,
+192,Colombia,COL,South America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,,,1517,1502,,,,0.76,0.42,0.59,1999,,
+193,Ecuador,ECU,South America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,,,1517,1502,,,,0.52,0.23,0.37,2001,,
+194,Falkland Islands (Malvinas),FLK,South America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,,,,,,,1518,,,,,,
+195,French Guiana,GUF,South America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,,,,,,,1518,,,,,,
+196,Guyana,GUY,South America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,,1517,1502,,,,1.73,1.65,1.69,2017,,Yes
+197,Paraguay,PRY,South America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,1636,,,1517,1502,,,,0.64,0.30,0.47,2017,,
+198,Peru,PER,South America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,,,1517,1502,,,,0.89,0.36,0.62,1993,,
+199,Suriname,SUR,South America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,1637,,1517,1502,,,,1.47,1.39,1.35,2017,,Yes
+200,Uruguay,URY,South America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,,1503,,,,,,0.86,0.36,0.59,2017,,
+201,Venezuela (Bolivarian Republic of),VEN,South America,Latin America and the Caribbean,Latin America and the Caribbean,,902,,934,948,,,,1517,1502,,,,,,,,,
+202,AUSTRALIA/NEW ZEALAND,   ,,,,,,,,,,,,,,,,,,,,,,
+203,Australia,AUS,Australia/New Zealand,Australia/New Zealand,Oceania,901,,,,,,,1503,,,,,,0.20,0.03,0.11,2017,,
+204,New Zealand,NZL,Australia/New Zealand,Australia/New Zealand,Oceania,901,,,,,,,1503,,,,,,0.18,0.06,0.12,2017,,
+205,OCEANIA (excluding Australia and New Zealand),,,,,,,,,,,,,,,,,,,,,,,
+206,Melanesia,   ,,,,,,,,,,,,,,,,,,,,,,
+207,Fiji,FJI,Melanesia,Oceania (excluding Australia and New Zealand),Oceania,,902,,934,948,,1637,,1517,1502,,,,,,,,,
+208,New Caledonia,NCL,Melanesia,Oceania (excluding Australia and New Zealand),Oceania,,902,,934,948,,1637,1503,,,,,,,,,,,
+209,Papua New Guinea,PNG,Melanesia,Oceania (excluding Australia and New Zealand),Oceania,,902,,934,948,,1637,,1517,,1501,,,0.76,1.04,0.89,2004,,Yes
+210,Solomon Islands,SLB,Melanesia,Oceania (excluding Australia and New Zealand),Oceania,,902,941,,948,,1637,,1517,,1501,,,,,,,,
+211,Vanuatu,VUT,Melanesia,Oceania (excluding Australia and New Zealand),Oceania,,902,941,,948,,1637,,1517,,1501,,,,,,,,
+212,Micronesia,   ,,,,,,,,,,,,,,,,,,,,,,
+213,Guam,GUM,Micronesia,Oceania (excluding Australia and New Zealand),Oceania,,902,,934,948,,1637,1503,,,,,,,,,,,
+214,Kiribati,KIR,Micronesia,Oceania (excluding Australia and New Zealand),Oceania,,902,941,,948,,1637,,1517,,1501,,,,,,,,
+215,Marshall Islands,MHL,Micronesia,Oceania (excluding Australia and New Zealand),Oceania,,902,,934,948,,1637,,1517,1502,,,,,,,,,
+216,Micronesia (Fed. States of),FSM,Micronesia,Oceania (excluding Australia and New Zealand),Oceania,,902,,934,948,,1637,,1517,,1501,,,,,,,,
+217,Nauru,NRU,Micronesia,Oceania (excluding Australia and New Zealand),Oceania,,902,,934,948,,1637,,1517,1502,,,,,,,,,
+218,Northern Mariana Islands,MNP,Micronesia,Oceania (excluding Australia and New Zealand),Oceania,,902,,934,948,,1637,1503,,,,,,,,,,,
+219,Palau,PLW,Micronesia,Oceania (excluding Australia and New Zealand),Oceania,,902,,934,948,,1637,1503,,,,,,,,,,,
+220,Polynesia,   ,,,,,,,,,,,,,,,,,,,,,,
+221,American Samoa,ASM,Polynesia,Oceania (excluding Australia and New Zealand),Oceania,,902,,934,948,,1637,,1517,1502,,,,,,,,,
+222,Cook Islands,COK,Polynesia,Oceania (excluding Australia and New Zealand),Oceania,,902,,934,948,,1637,,,,,,1518,,,,,,
+223,French Polynesia,PYF,Polynesia,Oceania (excluding Australia and New Zealand),Oceania,,902,,934,948,,1637,1503,,,,,,,,,,,
+224,Niue,NIU,Polynesia,Oceania (excluding Australia and New Zealand),Oceania,,902,,934,948,,1637,,,,,,1518,,,,,,
+225,Samoa,WSM,Polynesia,Oceania (excluding Australia and New Zealand),Oceania,,902,,934,948,,1637,,1517,1502,,,,,,,,,
+226,Tokelau,TKL,Polynesia,Oceania (excluding Australia and New Zealand),Oceania,,902,,934,948,,,,,,,,1518,,,,,,
+227,Tonga,TON,Polynesia,Oceania (excluding Australia and New Zealand),Oceania,,902,,934,948,,1637,,1517,1502,,,,,,,,,
+228,Tuvalu,TUV,Polynesia,Oceania (excluding Australia and New Zealand),Oceania,,902,941,,948,,1637,,1517,1502,,,,,,,,,
+229,Wallis and Futuna Islands,WLF,Polynesia,Oceania (excluding Australia and New Zealand),Oceania,,902,,934,948,,,,,,,,1518,,,,,,
+230,EUROPE AND NORTHERN AMERICA,,,,,,,,,,,,,,,,,,,,,,,
+231,EUROPE,   ,,,,,,,,,,,,,,,,,,,,,,
+232,Eastern Europe,   ,,,,,,,,,,,,,,,,,,,,,,
+233,Belarus,BLR,Eastern Europe,Europe,Europe,901,,,,,,,,1517,1502,,,,0.49,0.40,0.45,2017,,
+234,Bulgaria,BGR,Eastern Europe,Europe,Europe,901,,,,,,,,1517,1502,,,,0.11,0.03,0.07,2017,,
+235,Czechia,CZE,Eastern Europe,Europe,Europe,901,,,,,,,1503,,,,,,0.08,0.01,0.05,2017,,
+236,Hungary,HUN,Eastern Europe,Europe,Europe,901,,,,,,,1503,,,,,,0.08,0.01,0.05,2017,,
+237,Poland,POL,Eastern Europe,Europe,Europe,901,,,,,,,1503,,,,,,,,,,,
+238,Republic of Moldova,MDA,Eastern Europe,Europe,Europe,901,,,,,1636,,,1517,,1501,,,0.69,0.42,0.56,2017,,
+239,Romania,ROU,Eastern Europe,Europe,Europe,901,,,,,,,,1517,1502,,,,0.19,0.10,0.15,2017,,
+240,Russian Federation,RUS,Eastern Europe,Europe,Europe,901,,,,,,,,1517,1502,,,,1.42,0.88,1.15,2017,,Yes
+241,Slovakia,SVK,Eastern Europe,Europe,Europe,901,,,,,,,1503,,,,,,0.04,0.02,0.03,2017,,
+242,Ukraine,UKR,Eastern Europe,Europe,Europe,901,,,,,,,,1517,,1501,,,1.22,0.87,0.97,2006,,Yes
+243,Northern Europe,   ,,,,,,,,,,,,,,,,,,,,,,
+244,Channel Islands,CHI,Northern Europe,Europe,Europe,901,,,,,,,1503,,,,,,,,,,,
+245,Denmark,DNK,Northern Europe,Europe,Europe,901,,,,,,,1503,,,,,,0.22,0.10,0.16,2007,,
+246,Estonia,EST,Northern Europe,Europe,Europe,901,,,,,,,1503,,,,,,0.87,0.44,0.66,2017,,
+247,Faroe Islands,FRO,Northern Europe,Europe,Europe,901,,,,,,,1503,,,,,,,,,,,
+248,Finland,FIN,Northern Europe,Europe,Europe,901,,,,,,,1503,,,,,,,,,,,
+249,Iceland,ISL,Northern Europe,Europe,Europe,901,,,,,,,1503,,,,,,,,,,,
+250,Ireland,IRL,Northern Europe,Europe,Europe,901,,,,,,,1503,,,,,,0.28,0.15,0.22,2017,,
+251,Isle of Man,IMN,Northern Europe,Europe,Europe,901,,,,,,,1503,,,,,,,,,,,
+252,Latvia,LVA,Northern Europe,Europe,Europe,901,,,,,,,1503,,,,,,,,,,,
+253,Lithuania,LTU,Northern Europe,Europe,Europe,901,,,,,,,1503,,,,,,0.22,0.10,0.16,2017,,
+254,Norway,NOR,Northern Europe,Europe,Europe,901,,,,,,,1503,,,,,,,,,,,
+255,Sweden,SWE,Northern Europe,Europe,Europe,901,,,,,,,1503,,,,,,,,,,,
+256,United Kingdom,GBR,Northern Europe,Europe,Europe,901,,,,,,,1503,,,,,,,,,,,
+257,Southern Europe,   ,,,,,,,,,,,,,,,,,,,,,,
+258,Albania,ALB,Southern Europe,Europe,Europe,901,,,,,,,,1517,1502,,,,0.11,0.05,0.08,2017,,
+259,Andorra,AND,Southern Europe,Europe,Europe,901,,,,,,,1503,,,,,,,,,,,
+260,Bosnia and Herzegovina,BIH,Southern Europe,Europe,Europe,901,,,,,,,,1517,1502,,,,,,,,,
+261,Croatia,HRV,Southern Europe,Europe,Europe,901,,,,,,,1503,,,,,,,,,,,
+262,Gibraltar,GIB,Southern Europe,Europe,Europe,901,,,,,,,1503,,,,,,,,,,,
+263,Greece,GRC,Southern Europe,Europe,Europe,901,,,,,,,1503,,,,,,0.34,0.08,0.21,2017,,
+264,Holy See,VAT,Southern Europe,Europe,Europe,901,,,,,,,,,,,,1518,,,,,,
+265,Italy,ITA,Southern Europe,Europe,Europe,901,,,,,,,1503,,,,,,0.39,0.18,0.28,2005,,
+266,Malta,MLT,Southern Europe,Europe,Europe,901,,,,,,,1503,,,,,,,,,,,
+267,Montenegro,MNE,Southern Europe,Europe,Europe,901,,,,,,,,1517,1502,,,,0.09,0.04,0.07,2017,,
+268,North Macedonia,MKD,Southern Europe,Europe,Europe,901,,,,,1636,,,1517,1502,,,,0.05,0.01,0.03,2017,,
+269,Portugal,PRT,Southern Europe,Europe,Europe,901,,,,,,,1503,,,,,,0.88,0.35,0.61,2008,,
+270,San Marino,SMR,Southern Europe,Europe,Europe,901,,,,,,,1503,,,,,,,,,,,
+271,Serbia,SRB,Southern Europe,Europe,Europe,901,,,,,,,,1517,1502,,,,0.07,0.03,0.05,2017,,
+272,Slovenia,SVN,Southern Europe,Europe,Europe,901,,,,,,,1503,,,,,,0.14,0.02,0.08,2017,,
+273,Spain,ESP,Southern Europe,Europe,Europe,901,,,,,,,1503,,,,,,0.66,0.21,0.44,2013,,
+274,Western Europe,   ,,,,,,,,,,,,,,,,,,,,,,
+275,Austria,AUT,Western Europe,Europe,Europe,901,,,,,,,1503,,,,,,0.18,0.06,0.12,2016,,
+276,Belgium,BEL,Western Europe,Europe,Europe,901,,,,,,,1503,,,,,,,,,,,
+277,France,FRA,Western Europe,Europe,Europe,901,,,,,,,1503,,,,,,0.61,0.32,0.46,2015,,
+278,Germany,DEU,Western Europe,Europe,Europe,901,,,,,,,1503,,,,,,0.22,0.09,0.16,2017,,
+279,Liechtenstein,LIE,Western Europe,Europe,Europe,901,,,,,,,1503,,,,,,,,,,,
+280,Luxembourg,LUX,Western Europe,Europe,Europe,901,,,,,,,1503,,,,,,0.41,0.12,0.27,2017,,
+281,Monaco,MCO,Western Europe,Europe,Europe,901,,,,,,,1503,,,,,,,,,,,
+282,Netherlands,NLD,Western Europe,Europe,Europe,901,,,,,,,1503,,,,,,0.32,0.08,0.20,2013,,
+283,Switzerland,CHE,Western Europe,Europe,Europe,901,,,,,,,1503,,,,,,,,,,,
+284,NORTHERN AMERICA,   ,,,,,,,,,,,,,,,,,,,,,,
+285,Bermuda,BMU,North America,North America,Northern America,901,,,,,,1637,1503,,,,,,,,,,,
+286,Canada,CAN,North America,North America,Northern America,901,,,,,,,1503,,,,,,,,,,,
+287,Greenland,GRL,North America,North America,Northern America,901,,,,,,,1503,,,,,,,,,,,
+288,Saint Pierre and Miquelon,SPM,North America,North America,Northern America,901,,,,,,,,,,,,1518,,,,,,
+289,United States of America,USA,North America,North America,Northern America,901,,,,,,,1503,,,,,,,,,,,

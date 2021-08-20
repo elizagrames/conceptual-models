@@ -1,0 +1,231 @@
+,Freq,processes,
+62,1,weather,weather
+61,1,watershed flow,watershed flow
+142,4,water and sediment hg,water and sediment hg
+219,46,canopy cover,forest characteristics
+201,17,dbh,forest characteristics
+194,14,basal area,forest characteristics
+197,14,forest structure,forest characteristics
+164,6,vegetation characteristics,vegetation structure
+151,5,tree density,forest characteristics
+123,4,coarse woody debris,vegetation structure
+136,4,snag density,forest characteristics
+141,4,vegetation complexity,vegetation structure
+108,3,canopy height,forest characteristics
+120,3,shrub height,vegetation structure
+70,2,canopy closure,forest characteristics
+76,2,forest cover,forest characteristics
+99,2,sapling density,vegetation structure
+101,2,stem density,vegetation structure
+104,2,tree basal area,forest characteristics
+105,2,vegetation density,vegetation structure
+58,1,tree layers,forest characteristics
+60,1,vegetation diversity,vegetation structure
+213,36,vegetation structure,vegetation structure
+190,11,vegetation cover,vegetation structure
+167,7,shrub cover,vegetation structure
+98,2,sapling cover,vegetation structure
+106,2,vine cover,vegetation structure
+202,17,urbanization,urbanization
+210,27,ground cover,vegetation structure
+205,20,shrub density,vegetation structure
+139,4,understory vegetation,vegetation structure
+140,4,understory vegetation density,vegetation structure
+19,1,forb cover,vegetation structure
+21,1,ground voer,vegetation structure
+23,1,herb height,vegetation structure
+24,1,herbaceous cover,vegetation structure
+59,1,understory vegetation cover,vegetation structure
+150,5,traffic noise,traffic noise
+56,1,time since disturbance,time since disturbance
+55,1,time off territory,time off territory
+138,4,territory vacancy,territory vacancy
+181,8,territory size,territory size
+103,2,territory establishment,territory establishment
+224,101,territory density,territory density
+193,13,territory defense,territory defense
+100,2,soil calcium,soil calcium
+130,4,male return rate,site fidelity
+149,5,site fidelity,site fidelity
+199,14,singing rate,singing rate
+188,10,singing,singing rate
+163,6,song,singing rate
+148,5,singing males,singing males
+49,1,sex ratio,sex ratio
+96,2,resettlement,settlement
+119,3,settlement,settlement
+97,2,resource availability,resource availability
+223,94,reproductive success,reproductive success
+65,2,annual fecundity,reproductive success
+48,1,reproductive succcess,reproductive success
+135,4,renesting attempts,renesting attempts
+95,2,recruitment,recruitment
+89,2,parental feeding,provisioning rate
+94,2,provisioning rates,provisioning rate
+39,1,nest provisionining,provisioning rate
+166,7,predator abundance,predator abundance
+143,5,avian predators,predator abundance
+134,4,raptors,predator abundance
+137,4,snakes,predator abundance
+107,3,avian predator,predator abundance
+117,3,nest predator abundance,predator abundance
+84,2,mammalian predator abundance,predator abundance
+86,2,nest predator activity,predator abundance
+33,1,mammalian predators,predator abundance
+50,1,small mammal abundance,predator abundance
+51,1,snake activity,predator abundance
+53,1,squirrel abundance,predator abundance
+41,1,nest vulnerability,predation risk
+47,1,predation risk,predation risk
+93,2,population source,population source
+133,4,plant community,plant community
+71,2,deciduous trees,plant community
+57,1,tree diversity,plant community
+90,2,peat depth,peat depth
+230,436,patch size,patch size
+220,53,forest width,patch size
+162,6,patch area,patch size
+20,1,fragmentation,patch size
+30,1,island size,patch size
+221,71,pairing success,pairing success
+180,8,pairing status,pairing success
+154,6,breeding state,pairing success
+6,1,breeding status,pairing success
+217,44,movement,off-territory movements
+211,30,off-territory movements,off-territory movements
+88,2,off-territory forays,off-territory movements
+15,1,extraterritorial forays,off-territory movements
+78,2,gap-crossing,off-territory movements
+5,1,bird occurrence,occupancy
+184,9,occupancy,occupancy
+118,3,number of nestlings,number of nestlings
+218,45,number of fledglings,number of fledglings
+87,2,number of fledgings,number of fledglings
+161,6,nestling growth rate,nestling growth rate
+16,1,fledging mass,nestling condition
+160,6,nestling condition,nestling condition
+228,128,nest success,nest success
+214,38,nest survival,nest success
+208,24,fledging success,nest success
+186,10,daily nest survival,nest success
+179,8,nest failure,nest success
+9,1,daily nest failure,nest success
+146,5,nest placement,nest site selection
+36,1,nest building,nest site selection
+38,1,nest height,nest site selection
+132,4,nest site selection,nest site selection
+227,125,nest predation,nest predation
+147,5,predation,nest predation
+131,4,nest density,territory density
+198,14,nest concealment,nest concealment
+35,1,nest attendance,nest attendance
+40,1,nest visitation,nest attendance
+63,2,abandonment,nest abandonment
+145,5,nest abandonment,nest abandonment
+45,1,post-fledging dispersal,natal dispersal
+116,3,natal dispersal,natal dispersal
+159,6,microclimate,microclimate
+183,9,matrix,matrix type
+26,1,housing development,matrix type
+31,1,land use,matrix type
+178,8,matrix type,matrix type
+158,6,mate selection,mate selection
+85,2,mate guarding,mate guarding
+32,1,male quality,male quality
+102,2,sunlight penetration,light regimes
+129,4,light regimes,light regimes
+222,91,leaf litter depth,leaf litter depth
+114,3,leaf litter,leaf litter depth
+115,3,litter depth,leaf litter depth
+83,2,leaf litter volume,leaf litter depth
+82,2,juvenile survival,juvenile survival
+46,1,post-fledging survival,juvenile survival
+216,44,insect abundance,invertebrate abundance
+196,14,food abundance,invertebrate abundance
+168,8,aquatic invertebrates,invertebrate abundance
+165,7,food availability,invertebrate abundance
+128,4,invertebrate abundance,invertebrate abundance
+81,2,invertebrate prey availability,invertebrate abundance
+29,1,invertebrate food availability,invertebrate abundance
+28,1,invasive plant nest substrates,invasive species
+42,1,non-native shrubs,invasive species
+157,6,invasive species,invasive species
+27,1,interception effects,interception effects
+127,4,insect contaminant load,insect contaminant load
+176,8,immune function,immune function
+187,10,immigration,immigration
+25,1,heterospecific interference competition,heterospecific interference competition
+37,1,nest destruction by heterospecifics,heterospecific interference competition
+175,8,heterospecific density,heterospecific density
+80,2,heterospecific attraction,heterospecific attraction
+79,2,heat island,heat island
+126,4,hatching success,hatching success
+22,1,hatch date,hatch date
+189,10,territory placement,habitat selection
+113,3,habitat use,habitat selection
+144,5,habitat selection,habitat selection
+204,18,habitat quality,habitat quality
+112,3,habitat heterogeneity,habitat heterogeneity
+17,1,floater males,floater males
+125,4,fledgling production,fledging success
+75,2,fledging,fledging success
+191,12,access to females,extra-pair partners
+14,1,extra-pair partners,extra-pair partners
+173,8,extra pair copulation,extra pair copulation
+111,3,extra-pair fertilization,extra pair copulation
+8,1,cuckoldry,extra pair copulation
+13,1,extra-pair copulation,extra pair copulation
+110,3,extinction,extinction
+12,1,encounter probability,encounter probability
+124,4,embryo deformities,embryo deformities
+172,8,egg size,egg size
+212,33,road density,edge characteristics
+174,8,forest dissection,edge characteristics
+109,3,edge density,edge characteristics
+77,2,gap width,edge characteristics
+10,1,edge abruptness,edge characteristics
+11,1,edge length,edge characteristics
+44,1,perimeter-edge ratio,edge characteristics
+74,2,edge avoidance,edge avoidance
+73,2,earthworm abundance,earthworm abundance
+229,225,distance to edge,distance to edge
+72,2,dispersal,dispersal
+54,1,stress levels,corticosterone
+155,6,corticosterone,corticosterone
+206,22,contaminant load,contaminant load
+182,9,clutch size,clutch size
+69,2,brood size,brood size
+225,103,brood parasitism,brood parasitism
+43,1,parasitism,brood parasitism
+122,4,brood parasite nestling survival,brood parasite nestling survival
+192,12,brood parasite abundance,brood parasite abundance
+68,2,breeding synchrony,breeding synchrony
+207,23,body condition,body condition
+153,6,body mass,body condition
+156,6,fat stores,body condition
+67,2,bird feeders,bird feeders
+215,43,bird species richness,bird community
+3,1,avian community composition,bird community
+4,1,bird diversity,bird community
+52,1,species packing,bird community
+203,18,bird community,bird community
+226,119,bird abundance,bird abundance
+209,24,population density,bird abundance
+195,14,bird density,bird abundance
+185,10,breeding density,bird abundance
+121,4,abundance,bird abundance
+66,2,bird abundane,bird abundance
+92,2,population decline,bird abundance
+7,1,conspecific density,bird abundance
+34,1,migrant density,bird abundance
+200,16,bioavailability of metals,bioavailability of metals
+18,1,foraging behavior,behavior
+171,8,behavior,behavior
+170,8,atmospheric deposition,atmospheric deposition
+169,8,arrival date,arrival date
+177,8,male age,age structure
+91,2,population age structure,age structure
+1,1,age,age structure
+152,6,age structure,age structure
+64,2,adult survival,adult survival
+2,1,apparent survival,adult survival
