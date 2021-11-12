@@ -1,0 +1,14 @@
+name: edge-area-sensitivity
+title: edge-area-sensitivity
+username:
+account: elizagrames
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4379643
+bundleId: 4823974
+url: https://elizagrames.shinyapps.io/edge-area-sensitivity/
+when: 1626384496.02177
+lastSyncTime: 1626384496.0218
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: synthesisr_bibliography.ris
